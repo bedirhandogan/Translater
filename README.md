@@ -1,6 +1,7 @@
 # Translater
-It allows you to present your HTML web structure in different languages.
+![Frame](https://user-images.githubusercontent.com/59766658/163153997-71e31c2f-4689-498f-933e-60f602f1107e.png)
 
+It allows you to present your HTML web structure in different languages.
 ### Use
 ```javascript
         Translater({
